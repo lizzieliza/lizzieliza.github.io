@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "image_search.js", "use": "@vercel/node" }
+  ]
+}
